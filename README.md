@@ -2,7 +2,7 @@
 
 
 1. CQRS
-. Event Sourcing
+2. Event Sourcing
 . Event Bus
 . RabbitMQ
 . AMQP
