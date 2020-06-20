@@ -1,7 +1,7 @@
 # AXON CQRS
 
 
-. CQRS
+1. CQRS
 . Event Sourcing
 . Event Bus
 . RabbitMQ
